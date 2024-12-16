@@ -16,6 +16,12 @@ pytest
 ```
 ### How to Run: ###
 
-* First, start the server by running arithmetics_server.py
+* First, start the server by running arithmetics_server.py:
+```commandline
+python arithmetics_server.py
+```
 * In another terminal, run arithmetics_client.py
+```commandline
+python arithmetics_client.py
+```
 * Follow the prompts to enter numbers and operation
